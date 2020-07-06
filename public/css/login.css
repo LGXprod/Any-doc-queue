@@ -1,0 +1,34 @@
+/* html elements */
+
+body {
+    background-color: #112d4e;
+}
+
+/* bootstrap 4 classes */
+
+.form-group {
+    width: 90%;
+    margin-left: 5%;
+    color: #f9f7f7;
+}
+
+.form-text {
+    color: #dbe2ef;
+}
+
+.btn-dark {
+    background-color: #112d4e;
+    border-color: #112d4e;
+}
+
+/* classes */
+
+.login-form {
+    width: 25vw;
+    background-color: #3f72af;
+    margin-left: 37.5vw;
+    margin-top: 12.5vh;
+    border-width: 0;
+    border-radius: 10px;
+    padding-top: 10px;
+}
